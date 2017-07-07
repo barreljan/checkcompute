@@ -7,8 +7,8 @@ SETI@HOME, WCG or maybe CPU Mining for cryptocurrency. The script soley relies
 on the fact that uses CPU rather than GPU.
 
 -- Prerequisites
-    - Access through SSH to the nodes
-    - SSH keys (preferred without pass) on your nodes
+- Access through SSH to the nodes
+- SSH keys (preferred without pass) on your nodes
 
 Add IP addresses in the array of your nodes and then run the script:
 

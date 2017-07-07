@@ -3,7 +3,6 @@
 # created by bartjan@pc-mania.nl
 
 MAILRECP="johndoe@somedomain.org"
-
 RED="\033[1;31m"
 YELLOW="\033[1;33m"
 GREEN="\033[1;32m"

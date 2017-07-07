@@ -6,7 +6,7 @@ This can be some servers or clients that are computing for projects like
 SETI@HOME, WCG or maybe CPU Mining for cryptocurrency. The script soley relies
 on the fact that uses CPU rather than GPU.
 
--- Prerequisites
+**Prerequisites**
 - Access through SSH to the nodes
 - SSH keys (preferred without pass) on your nodes
 
